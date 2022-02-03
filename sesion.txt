@@ -1,0 +1,104 @@
+Script started on 2022-02-03 11:14:02+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ ^C
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git config --global user.email "you@example.com"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[C[C[C[1P.com"[C[Cu.com"[C[C[Cc.com"m.com"[C[C[C[C[1P"[1P"[1P"e"s"[1P@ucm.es"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@u[1Pcm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@uc[1Pm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@ucm[1P.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"@ucm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp@ucm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca@ucm.es"b@ucm.es"[Cl@ucm.es"[C[Ca@ucm.es"[C[C[Cl@ucm.es"[C[C[C[C0@ucm.es"[C[C[C[C[C5@ucm.es"[C[C[C[C[C[C
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git config --global user.email "pablal05@ucm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ ls .ssh/[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh luis@dana[5Pdanaluis@dana[5Pls .ssh/git config --global user.email "pablal05@ucm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.email "pablal05@ucm.es"[A]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ ls .ssh/[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[Kgit commit -m "prueba"
+[main df0bbff] prueba
+ 1 file changed, 8 insertions(+)
+ create mode 100644 pr.py
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git push
+Enumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 339 bytes | 169.00 KiB/s, listo.
+Total 3 (delta 1), reusado 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:pablal05/repositorio-prueba.git
+   61dcefa..df0bbff  main -> main
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 pr.y[Kpy
+patata
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 pr.py
+  File "pr.py", line 17
+    print ("hola", i)
+    ^
+IndentationError: expected an indented block
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 pr.py
+fin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 3
+hola 4
+hola 1
+hola 2
+hola 3
+hola 4
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ [K]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ ls
+1__procesos.py  LICENSE  pr.py  README.md  sesion.txt
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 1__procesos.py 
+  File "1__procesos.py", line 14
+    print (f"hola soy {value} vuelta {i}")
+    ^
+IndentationError: expected an indented block
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 1__procesos.py 
+  File "1__procesos.py", line 22
+    lp.append(Process(target=f,args=(f"ana {i}",)))
+    ^
+IndentationError: expected an indented block
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ python3 1__procesos.py 
+hola soy ana 0 vuelta 0
+hola soy ana 0 vuelta 1
+hola soy ana 0 vuelta 2
+hola soy ana 1 vuelta 0
+hola soy ana 1 vuelta 1
+hola soy ana 1 vuelta 2
+hola soy ana 2 vuelta 0
+hola soy ana 2 vuelta 1
+hola soy ana 2 vuelta 2
+hola soy ana 4 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 3 vuelta 1
+hola soy ana 3 vuelta 2
+hola soy ana 4 vuelta 1
+hola soy ana 4 vuelta 2
+hola soy ana 5 vuelta 0
+hola soy ana 5 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 7 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 6 vuelta 1
+hola soy ana 6 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 7 vuelta 2
+hola soy ana 8 vuelta 0
+hola soy ana 8 vuelta 1
+hola soy ana 8 vuelta 2
+hola soy ana 9 vuelta 0
+hola soy ana 9 vuelta 1
+hola soy ana 9 vuelta 2
+fin
+adios
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git co
+commit   config   
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git commit -m "añadir[Kdo 1[Kproceso 1" [A
+En la rama main
+Tu rama está actualizada con 'origin/main'.
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	[31mmodificado:     pr.py[m
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31m1__procesos.py[m
+	[31msesion.txt[m
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+]0;mat@mat-VirtualBox: ~/prpa/repositorio-prueba[01;32mmat@mat-VirtualBox[00m:[01;34m~/prpa/repositorio-prueba[00m$ git push
+Everything up-to-date
+]0;mat@mat-VirtualBox: ~/prpa/reposito
